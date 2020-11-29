@@ -1,0 +1,7 @@
+C:\Users\Rui\source\repos\spambot1\spambot1\bin\Debug\spambot1.exe.config
+C:\Users\Rui\source\repos\spambot1\spambot1\bin\Debug\spambot1.exe
+C:\Users\Rui\source\repos\spambot1\spambot1\bin\Debug\spambot1.pdb
+C:\Users\Rui\source\repos\spambot1\spambot1\obj\Debug\spambot1.csprojAssemblyReference.cache
+C:\Users\Rui\source\repos\spambot1\spambot1\obj\Debug\spambot1.csproj.CoreCompileInputs.cache
+C:\Users\Rui\source\repos\spambot1\spambot1\obj\Debug\spambot1.exe
+C:\Users\Rui\source\repos\spambot1\spambot1\obj\Debug\spambot1.pdb
