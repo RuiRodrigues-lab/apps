@@ -5,4 +5,4 @@ Bem vindo ao meu repos de projectos aleatorios, aqui coloco todos os pequenos pr
 2. HTML/CSS/JS
 3. Python
 4. SQL
-5.No-SQL
+5. No-SQL
